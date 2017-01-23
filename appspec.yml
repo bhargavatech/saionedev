@@ -6,6 +6,6 @@ files:
   - source:ssssoindia\sample.txt
     destination:c:\inetpub\samplecodedeploy
 hooks:
-	BeforeInstall:
-	- location: ssssoindia\beforeinstall.bat
-	  timeout: 900 
+    BeforeInstall:
+    - location: ssssoindia\beforeinstall.bat
+      timeout: 900 
