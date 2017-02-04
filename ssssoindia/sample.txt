@@ -1,1 +1,1 @@
-Sample file to test Github. good luck
+Sample file to test Github from a Branch. good luck
