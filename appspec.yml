@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: ssssoindia/index.html 
+  - source: saionedev/index.html 
     destination: c:\inetpub\samplecodedeploy
-  - source: ssssoindia/sample.txt
+  - source: saionedev/sample.txt
     destination: c:\inetpub\samplecodedeploy
