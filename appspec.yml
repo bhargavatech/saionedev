@@ -1,7 +1,5 @@
 version: 0.0
 os: windows
 files:
-  - source: ssssoindia/index.html 
-    destination: c:\inetpub\samplecodedeploy
-  - source: ssssoindia/sample.txt
-    destination: c:\inetpub\samplecodedeploy
+  - source: / 
+    destination: c:/inetpub/samplecodedeploy
